@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#gameboard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 40vh;
+    height: 40vh;
+    margin: 12% auto;
+}
+
+#gameboard * {
+    width: 33%;
+}
