@@ -8,9 +8,12 @@ body {
     flex-wrap: wrap;
     width: 40vh;
     height: 40vh;
-    margin: 12% auto;
+    margin: 9% auto;
+    
 }
 
 #gameboard * {
     width: 33%;
+    height: 33%;
+    font-size: 5em;
 }
