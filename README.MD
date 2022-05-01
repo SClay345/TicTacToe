@@ -1,9 +1,8 @@
 # Tic Tac Toe 
 A simple Tic Tac Toe game. 
 
-**Link to project:** 
-
-![alt tag](http://placecorgi.com/1200/650)
+**Link to project:**  https://sclay345.github.io/TicTacToe/
+![alt tag](./tictactoe.jpg)
 
 ## How It's Made:
 
